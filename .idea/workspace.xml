@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0c36059-f6f7-4373-9768-cd9783473e1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/bs_bootstrap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/INDEX.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/h1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/h2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/h6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/r1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/r3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/r4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rich_picture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sl/sl1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sl/sl2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sl/sl3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sl/sl4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sl/sl5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sl/sl6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sl/р6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +42,8 @@
       <updated>1575138701641</updated>
       <workItem from="1575138703715" duration="35000" />
       <workItem from="1575139210398" duration="22000" />
+      <workItem from="1575143805117" duration="289000" />
+      <workItem from="1575144102877" duration="795000" />
     </task>
     <servers />
   </component>
@@ -80,7 +55,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
